@@ -6,12 +6,10 @@
 
 ## 💫 About Me
 
-🎓 **Master's Student in Data Science** – University of Monastir (2024-2026)  
-🤖 **Freelance Machine Learning** – Du prototype à la production  
-✍️ **Python Developer** – Code propre, scalable et performant  
-📈 **Financial AlgoTrader** – Data-driven, prédictif et automatisé  
+🎓 **Master's Student in Data Science** – University of Monastir (2024-2026)    
+✍️ **Python Developer** – Code propre, scalable et performant   
 🔍 **Statistical Analysis** – Des données aux décisions explicables  
-🚀 **Deep Learning Practitioner** – Modèles avancés, optimisés et fiabilisés
+🚀 **Deep Learning ** – Modèles avancés, optimisés et fiabilisés
 
 ---
 
@@ -148,15 +146,10 @@
 
 ---
 
-## ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
 
 ## 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=VOTRE_USERNAME&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Adnane-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
