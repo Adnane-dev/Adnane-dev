@@ -15,7 +15,7 @@
 
 ---
 
-## 🧠 Ma philosophie
+
 ## 🧠 Ma philosophie : Ilm | Aql | Jism
 
 > *Un projet éducatif et humain visant à former un individu complet, conscient, équilibré et utile à sa société.*
@@ -64,7 +64,7 @@
 > *quand la raison guide,*  
 > *et quand le corps soutient,*  
 > *l'être humain devient **équilibré, autonome et constructif**.*
-
+## 🧠 Ma philosophie de travail
 
 | Caractéristique | Mon engagement |
 |:----------------|:----------------|
