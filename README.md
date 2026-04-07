@@ -15,6 +15,7 @@
 ☁️ **AWS Cloud** – Architectures modernes et performantes  
 🔧 **C# / .NET Developer** – Backend robuste et industriel 
 💻 **Software Engineer** – Conception, architecture et développement d'applications robustes et scalables 
+
 ---
 
 
