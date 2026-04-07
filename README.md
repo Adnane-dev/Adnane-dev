@@ -10,6 +10,7 @@
 ✍️ **Python Developer** – Code propre, scalable et performant   
 🔍 **Statistical Analysis** – Des données aux décisions explicables  
 🚀 **Deep Learning** – Modèles avancés, optimisés et fiabilisés
+
 🤖 **Data Scientist & ML Engineer** – Du prototype à la production  
 
 ⚙️ **Data Engineering** – Pipelines fiables, scalables et automatisés  
