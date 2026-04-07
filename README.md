@@ -9,7 +9,8 @@
 🎓 **Master's Student in Data Science** – University of Monastir (2024-2026)    
 ✍️ **Python Developer** – Code propre, scalable et performant   
 🔍 **Statistical Analysis** – Des données aux décisions explicables  
-🚀 **Deep Learning ** – Modèles avancés, optimisés et fiabilisés
+🚀 **Deep Learning** – Modèles avancés, optimisés et fiabilisés
+
 ---
 
 
