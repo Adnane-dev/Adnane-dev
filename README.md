@@ -16,6 +16,55 @@
 ---
 
 ## 🧠 Ma philosophie
+## 🧠 Ma philosophie : Ilm | Aql | Jism
+
+> *Un projet éducatif et humain visant à former un individu complet, conscient, équilibré et utile à sa société.*
+
+---
+
+### 1️⃣ Al-‘Ilm (العلم) – Le savoir
+*Développer la connaissance et la conscience*
+
+📘 Éducation religieuse, scientifique et professionnelle  
+📘 Transmission des valeurs et du sens  
+📘 Formation continue et apprentissage tout au long de la vie  
+📘 Compréhension du monde et des réalités contemporaines  
+
+> 🎯 **Objectif :** éclairer l'être humain par un savoir utile et responsable.
+
+---
+
+### 2️⃣ Al-‘Aql (العقل) – L'intellect / la raison
+*Former une pensée saine et équilibrée*
+
+🧠 Développement de l'esprit critique  
+🧠 Réflexion éthique et morale  
+🧠 Prise de décision consciente et responsable  
+🧠 Intelligence émotionnelle et maîtrise de soi  
+
+> 🎯 **Objectif :** former un esprit lucide, stable et capable de discernement.
+
+---
+
+### 3️⃣ Al-Jism (الجسم) – Le corps
+*Renforcer le corps comme pilier de l'équilibre humain*
+
+💪 Santé physique et bien-être  
+💪 Discipline personnelle  
+💪 Sport et hygiène de vie  
+💪 Endurance et productivité durable  
+
+> 🎯 **Objectif :** bâtir un corps fort au service d'un esprit et d'une âme forts.
+
+---
+
+### 🔗 Vision globale
+
+> *Quand le savoir éclaire,*  
+> *quand la raison guide,*  
+> *et quand le corps soutient,*  
+> *l'être humain devient **équilibré, autonome et constructif**.*
+
 
 | Caractéristique | Mon engagement |
 |:----------------|:----------------|
