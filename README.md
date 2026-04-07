@@ -11,9 +11,11 @@
 🔍 **Statistical Analysis** – Des données aux décisions explicables  
 🚀 **Deep Learning** – Modèles avancés, optimisés et fiabilisés
 🤖 **Data Scientist & ML Engineer** – Du prototype à la production  
+
 ⚙️ **Data Engineering** – Pipelines fiables, scalables et automatisés  
 ☁️ **AWS Cloud** – Architectures modernes et performantes  
 🔧 **C# / .NET Developer** – Backend robuste et industriel 
+
 💻 **Software Engineer** – Conception, architecture et développement d'applications robustes et scalables 
 
 ---
