@@ -10,7 +10,6 @@
 ✍️ **Python Developer** – Code propre, scalable et performant   
 🔍 **Statistical Analysis** – Des données aux décisions explicables  
 🚀 **Deep Learning ** – Modèles avancés, optimisés et fiabilisés
-
 ---
 
 
